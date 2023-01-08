@@ -5,11 +5,9 @@ Maria Alejandra Pena - 2056718
 
 Enno Belz - 2057189
 
-Davit 
-
 
 **Files found in the repository:**
 
 
-#### main.ipynb
+#### main_.ipynb
 Jupyter notebook that contains all the answers of the Functionalities and Visualization questions and Algorithmic Question.

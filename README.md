@@ -14,4 +14,5 @@ There was a third person in our group: Davit Gevorgyan who was supposed to do Fu
 #### main_.ipynb
 Jupyter notebook that contains all the answers of the Functionalities and Visualization questions and Algorithmic Question.
 
-#### .csv files containing all the data that is used in the notebook.
+#### .csv files 
+Files containing all the data that is used in the notebook.
